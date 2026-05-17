@@ -67,11 +67,45 @@ Config files:
 
 ## Features
 
-- **Responsive Design** - Works on all devices
-- **React Router** - Smooth page navigation
-- **Tailwind CSS** - Utility-first styling
-- **TypeScript** - Type-safe code
-- **Lucide Icons** - Beautiful icon set
+### Responsive Design
+The portfolio is fully responsive and adapts seamlessly to all screen sizes - from mobile devices to large desktop monitors. The layout adjusts dynamically using Tailwind CSS responsive utilities.
+
+### React Router Navigation
+Client-side routing with React Router v6 enables smooth, instant page transitions without full page reloads. The app includes:
+- Navigation header with mobile hamburger menu
+- Active link highlighting
+- Smooth scroll behavior
+
+### Component Architecture
+Modular component structure makes the codebase easy to maintain and extend:
+- **Header** - Sticky navigation with mobile menu
+- **Hero** - Eye-catching landing section with CTAs
+- **About** - Personal bio with statistics
+- **Projects** - Project showcase cards
+- **Skills** - Animated progress bars
+- **Contact** - Functional contact form
+- **Footer** - Social links and copyright
+
+### TypeScript Integration
+Full TypeScript support provides:
+- Type-safe components and functions
+- IntelliSense support in VS Code
+- Better code documentation
+- Reduced runtime errors
+
+### Tailwind CSS Styling
+Utility-first CSS framework offers:
+- Rapid prototyping
+- Consistent design system
+- Easy color customization
+- Dark theme by default
+
+### Lucide Icons
+Beautiful, open-source icons used throughout for:
+- Navigation elements
+- Social media links
+- Contact information icons
+- Project links (GitHub, external links)
 
 ---
 
