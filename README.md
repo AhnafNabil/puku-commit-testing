@@ -144,16 +144,3 @@ colors: {
 | `npm run build` | Build for production |
 | `npm run preview` | Preview production build |
 | `npm run lint` | Run ESLint |
-
----
-
-## Prerequisites
-
-- Node.js v18 or higher
-- npm or yarn
-
----
-
-## License
-
-MIT License - free to use and modify
